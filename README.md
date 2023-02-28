@@ -10,10 +10,10 @@
 [![An image of @keerthx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keerthx)](https://holopin.io/@keerthx)
 
 # 📊 GitHub Stats:
-|   |   |
+|![](https://github-readme-stats.vercel.app/api?username=KeerthX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=KeerthX&theme=dark&hide_border=false)|
 
-![](https://github-readme-stats.vercel.app/api?username=KeerthX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KeerthX&theme=dark&hide_border=false)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
